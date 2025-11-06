@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Driton Bardhi
 
-💻 **Full-Stack Engineer**  
+💻 **Front-End Engineer**  
 🚀 Passionate about building responsive, scalable, and efficient web applications.
 
 ---
 
 ### 🧠 Tech Stack
-**Frontend:** HTML • CSS • JavaScript • React • Redux  
+**Frontend:** HTML5 • CSS3 • JavaScript ES6+ • React • Redux  
 **Backend:** Node.js • Express  
 **Tools:** Postman • Git • VS Code  
 **Database:** MongoDB  
@@ -40,5 +40,5 @@ Responsive website for a dental clinic.
 
 ### 📫 Let's Connect
 🌍 Skopje, North Macedonia  
-🔗 [LinkedIn](https://www.linkedin.com/in/driton-bardhi-71121b22b)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dimm444)  
 💻 [GitHub](https://github.com/dimm444)
